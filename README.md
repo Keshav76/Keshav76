@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Keshav76
+- 👋 Hi, I’m @Keshav76 a technology enthusiast pursuing my graduation from SRM University.
 - 👀 I’m interested in web-development.
 - 🌱 I’m currently learning Back-end.
 - 💞️ I’m looking to collaborate on any web-dev related project.
