@@ -15,8 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- Hacktoberfest:  [![@keshav76's Holopin board](https://holopin.me/keshav76)](https://holopin.io/@keshav76)
+
+# Hacktoberfest: 
+[![@keshav76's Holopin board](https://holopin.me/keshav76)](https://holopin.io/@keshav76)
 <!---
 Keshav76/Keshav76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
