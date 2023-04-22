@@ -7,8 +7,6 @@
 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=Keshav76&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-&emsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=Keshav76&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Keshav76&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
