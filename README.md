@@ -29,8 +29,8 @@
 
 # 📊 GitHub Stats: 
 <p style="display:flex; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav76&theme=tokyonight" alt="keshav76"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshav76&theme=tokyonight" alt="keshav76"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav76&theme=transparent" alt="keshav76"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Keshav76&theme=transparent" alt="keshav76"/>
 </p>
 
 
@@ -38,7 +38,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Keshav76&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
 
 ## Hacktoberfest 2022: 
