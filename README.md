@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Keshav Banka, a technology enthusiast pursuing my graduation from SRM University.</h1>
-<h3 align="center">Aspiring Full Stack Developer | Student at SRM University</h3>
+<h1 align="center">Hi 👋, I'm Keshav Banka, a technology enthusiast pursuing my Masters from IIT Kanpur.</h1>
+<h3 align="center">Aspiring Full Stack Developer | Student at IIT Kanpur</h3>
 
 # 💫 About Me: 
 - 🌱 I’m currently learning **Machine Learning**
