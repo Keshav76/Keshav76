@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Web3 technology**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](keshav-banka.vercel.app)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://keshav-banka.vercel.app/)**
 
 - 📫 How to reach me **keshav.banka2003@gmail.com**
 
