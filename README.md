@@ -37,10 +37,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Keshav76&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
-
-
-## Hacktoberfest 2022: 
-[![@keshav76's Holopin board](https://holopin.me/keshav76)](https://holopin.io/@keshav76)
 
